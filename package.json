@@ -1,0 +1,23 @@
+{
+  "name": "dereadmoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "fs-extra": "^7.0.1",
+    "linvodb3": "^3.26.0",
+    "medeadown": "^1.1.9",
+    "node-forge": "^0.6.49",
+    "node-localstorage": "^1.3.1",
+    "node-zip": "^1.1.1",
+    "sqlite3": "^4.0.6",
+    "unzip": "^0.1.11"
+  }
+}
